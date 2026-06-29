@@ -1,2 +1,2 @@
 # octo-ai
-AI Generator
+This is a 3Dprinting AI Generator
